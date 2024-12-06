@@ -1,2 +1,2 @@
-# Upstream-Repository - Updated by feature A
-So.. I think It could be done.
+# Upstream-Repository - Updated by feature SAD
+I think it should be conflicted
